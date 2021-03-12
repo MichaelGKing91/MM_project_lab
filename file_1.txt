@@ -1,3 +1,6 @@
+This is a new line.
+This is another new line.
+This is a third new line.
 I am going to have a good day!
 
 Matt is learing git for the first time
